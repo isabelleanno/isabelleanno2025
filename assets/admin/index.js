@@ -20,6 +20,6 @@ import 'sulu-website-bundle';
 
 // Add project specific javascript code and import of additional bundles to the following file:
 import './app.js';
-
+import './../../src/Bundle/CustomAdminBundle/Resources/public/js/app.js';
 // Start admin application
 startAdmin();
